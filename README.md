@@ -108,7 +108,7 @@ src/
 - **Email**: niketkumar2304@gmail.com
 - **Phone**: +91 8210113139
 - **GitHub**: [github.com/Niket224](https://github.com/Niket224)
-- **LinkedIn**: [linkedin.com/in/niket-kumar-iiita](https://www.linkedin.com/in/niket-kumar-iiita)
+- **LinkedIn**: https://www.linkedin.com/in/niket-kumar-1032222b8
 - **LeetCode**: [leetcode.com/u/niket224/](https://leetcode.com/u/niket224/)
 - **Codeforces**: [codeforces.com/profile/Niket2304](https://codeforces.com/profile/Niket2304)
 
